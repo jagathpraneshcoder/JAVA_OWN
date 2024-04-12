@@ -1,3 +1,5 @@
+//FIND WETHER THE GIVE STRING CONSISTS VOWELS OR NOT?
+
 import java.util.*;
 class Main{
     public static void main (String[] args) {
