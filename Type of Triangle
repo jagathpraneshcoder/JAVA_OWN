@@ -1,0 +1,45 @@
+//Simple find the type of triangle
+
+import java.util.*;
+
+public class Main
+{
+	public static void main(String[] args) {
+		
+		Scanner sc=new Scanner(System.in);
+		int a,b,c,ch=0;
+		a=sc.nextInt();
+		b=sc.nextInt();
+		c=sc.nextInt();
+		
+	    while (a + b + c != 180) {
+            System.out.println("Enter valid angles. The sum should be 180 degrees.");
+            a = sc.nextInt();
+            b = sc.nextInt();
+            c = sc.nextInt();
+        }
+		
+		    
+		if(a==b){
+		    if(a==c){
+		        System.out.println("This is Equilateral.");
+		    }
+		    else{
+		        System.out.println("This is Isosceles.");
+		    }
+		}
+	   
+	   else if(a==c){
+            if(a==b){
+                System.out.println("This is Equilateral.");
+            }
+            else{
+                System.out.println("This is Isosceles.");
+            }
+	    }
+	    
+	    else{
+	        System.out.println("This is scalene");
+	    }
+	}
+}
