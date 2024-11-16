@@ -31,6 +31,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Counting
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0010-regular-expression-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Linked List
 |  |
 | ------- |
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0460-lfu-cache) |
+## Combinatorics
+|  |
+| ------- |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 <!---LeetCode Topics End-->
