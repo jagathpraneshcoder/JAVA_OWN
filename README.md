@@ -89,6 +89,7 @@
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3588-count-the-number-of-winning-sequences) |
 | [3637-count-number-of-balanced-permutations](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
@@ -215,4 +216,8 @@
 |  |
 | ------- |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+## String Matching
+|  |
+| ------- |
+| [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 <!---LeetCode Topics End-->
