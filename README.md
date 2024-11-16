@@ -55,6 +55,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
@@ -67,11 +68,13 @@
 | [0010-regular-expression-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
 | ------- |
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
