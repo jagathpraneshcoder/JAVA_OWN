@@ -168,6 +168,7 @@
 | [1135-customers-who-bought-all-products](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1182-game-play-analysis-iv) |
+| [1268-market-analysis-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1268-market-analysis-i) |
 ## Two Pointers
 |  |
 | ------- |
