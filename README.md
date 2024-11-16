@@ -170,6 +170,7 @@
 | [1182-game-play-analysis-iv](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1182-game-play-analysis-iv) |
 | [1268-market-analysis-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1268-market-analysis-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1292-immediate-food-delivery-ii) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1327-last-person-to-fit-in-the-bus) |
 ## Two Pointers
 |  |
 | ------- |
