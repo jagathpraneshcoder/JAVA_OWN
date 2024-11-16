@@ -16,6 +16,7 @@
 | [3435-block-placement-queries](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3435-block-placement-queries) |
 | [3527-alternating-groups-iii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3527-alternating-groups-iii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3588-count-the-number-of-winning-sequences) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3637-count-number-of-balanced-permutations](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3637-count-number-of-balanced-permutations) |
@@ -134,6 +137,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Greedy
 |  |
 | ------- |
@@ -207,4 +211,8 @@
 |  |
 | ------- |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+## Bitmask
+|  |
+| ------- |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 <!---LeetCode Topics End-->
