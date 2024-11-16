@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0010-regular-expression-matching) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
