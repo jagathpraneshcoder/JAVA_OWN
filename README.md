@@ -13,6 +13,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2726-minimum-reverse-operations](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2726-minimum-reverse-operations) |
 | [3435-block-placement-queries](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3435-block-placement-queries) |
 | [3527-alternating-groups-iii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3527-alternating-groups-iii) |
@@ -91,6 +92,7 @@
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0068-text-justification) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3588-count-the-number-of-winning-sequences) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
+| [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 ## Matrix
 |  |
 | ------- |
@@ -228,5 +231,6 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0068-text-justification) |
+| [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 <!---LeetCode Topics End-->
