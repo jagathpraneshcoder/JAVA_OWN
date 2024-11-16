@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0185-department-top-three-salaries) |
+| [0262-trips-and-users](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0262-trips-and-users) |
 | [0601-human-traffic-of-stadium](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0601-human-traffic-of-stadium) |
 ## Two Pointers
 |  |
