@@ -108,4 +108,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
+## Database
+|  |
+| ------- |
+| [0601-human-traffic-of-stadium](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0601-human-traffic-of-stadium) |
 <!---LeetCode Topics End-->
