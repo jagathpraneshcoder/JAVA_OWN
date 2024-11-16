@@ -36,6 +36,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
+| [3637-count-number-of-balanced-permutations](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3588-count-the-number-of-winning-sequences) |
+| [3637-count-number-of-balanced-permutations](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3588-count-the-number-of-winning-sequences) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
+| [3637-count-number-of-balanced-permutations](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3637-count-number-of-balanced-permutations) |
 ## Linked List
 |  |
 | ------- |
@@ -180,6 +183,7 @@
 |  |
 | ------- |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
+| [3637-count-number-of-balanced-permutations](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3637-count-number-of-balanced-permutations) |
 ## Ordered Set
 |  |
 | ------- |
