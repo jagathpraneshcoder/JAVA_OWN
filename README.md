@@ -7,6 +7,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
