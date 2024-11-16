@@ -20,6 +20,7 @@
 | [0041-first-missing-positive](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0460-lfu-cache](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0460-lfu-cache) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Math
@@ -85,6 +86,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0025-reverse-nodes-in-k-group) |
+| [0460-lfu-cache](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0460-lfu-cache) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0295-find-median-from-data-stream](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0460-lfu-cache](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0460-lfu-cache) |
 ## Data Stream
 |  |
 | ------- |
@@ -152,4 +155,8 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
