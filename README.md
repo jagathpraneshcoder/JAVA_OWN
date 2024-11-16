@@ -160,6 +160,7 @@
 | [0180-consecutive-numbers](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0262-trips-and-users) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0601-human-traffic-of-stadium](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0601-human-traffic-of-stadium) |
 | [1182-game-play-analysis-iv](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1182-game-play-analysis-iv) |
 ## Two Pointers
