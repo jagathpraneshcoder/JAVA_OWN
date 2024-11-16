@@ -172,6 +172,7 @@
 | [1292-immediate-food-delivery-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1292-immediate-food-delivery-ii) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1480-movie-rating](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1480-movie-rating) |
+| [1523-capital-gainloss](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1523-capital-gainloss) |
 ## Two Pointers
 |  |
 | ------- |
