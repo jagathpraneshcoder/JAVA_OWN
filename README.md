@@ -16,6 +16,7 @@
 | [3435-block-placement-queries](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3435-block-placement-queries) |
 | [3527-alternating-groups-iii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3527-alternating-groups-iii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
+| [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Hash Table
@@ -115,6 +116,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0295-find-median-from-data-stream) |
+| [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Merge Sort
 |  |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
+## Simulation
+|  |
+| ------- |
+| [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 <!---LeetCode Topics End-->
