@@ -14,6 +14,7 @@
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2726-minimum-reverse-operations](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2726-minimum-reverse-operations) |
 | [3435-block-placement-queries](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3435-block-placement-queries) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@
 | [0010-regular-expression-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3588-count-the-number-of-winning-sequences](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3588-count-the-number-of-winning-sequences) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Greedy
 |  |
 | ------- |
@@ -198,4 +201,8 @@
 |  |
 | ------- |
 | [3435-block-placement-queries](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3435-block-placement-queries) |
+## Enumeration
+|  |
+| ------- |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 <!---LeetCode Topics End-->
