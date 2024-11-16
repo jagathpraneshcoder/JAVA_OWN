@@ -12,6 +12,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0460-lfu-cache](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0460-lfu-cache) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0295-find-median-from-data-stream) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -104,6 +107,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Stack
 |  |
 | ------- |
