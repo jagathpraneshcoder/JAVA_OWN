@@ -39,6 +39,7 @@
 | [0231-power-of-two](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
@@ -78,6 +79,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0010-regular-expression-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
+| [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
@@ -249,4 +252,8 @@
 | [0068-text-justification](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0068-text-justification) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
