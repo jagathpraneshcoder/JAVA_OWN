@@ -1,5 +1,11 @@
 class Solution {
 
+    public boolean findPalindrome(String s,int i,int j){
+        if(i>j) return true;
+        else if(s.charAt(i)!=s.charAt(j)) return false;
+        return findPalindrome(s,i+1,j-1);
+    }
+
     public boolean isPalindrome(String s) {
         s = s.toLowerCase();
         StringBuilder sb = new StringBuilder();
@@ -10,6 +16,6 @@ class Solution {
         }
         //System.out.println(sb.toString());
         //return true;
-        return sb.toString().equals(sb.reverse().toString());
+        return findPalindrome(sb.toString(),0,sb.toString().length()-1);
     }
 }
