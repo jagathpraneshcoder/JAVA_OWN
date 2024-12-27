@@ -9,6 +9,7 @@
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0090-subsets-ii) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0053-maximum-subarray) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0010-regular-expression-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
