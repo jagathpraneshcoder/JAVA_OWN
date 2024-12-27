@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0041-first-missing-positive) |
@@ -170,6 +171,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 ## Database
@@ -197,6 +199,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0189-rotate-array) |
