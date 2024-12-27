@@ -9,6 +9,7 @@
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0078-subsets) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -194,6 +197,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0295-find-median-from-data-stream) |
@@ -275,4 +279,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
