@@ -8,11 +8,11 @@ class Solution {
                 return mid;
             }
             else if(nums[mid]>target){
-                j--;
+                j=mid-1;
                 mid=(i+j)/2;
             }
             else if(nums[mid]<target){
-                i++;
+                i=mid+1;
                 mid=(i+j)/2;
             }
         }
