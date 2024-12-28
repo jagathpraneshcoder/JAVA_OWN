@@ -11,9 +11,9 @@ class Solution {
                 j--;
             }
             else if(i==j){
-                break;
+                return nums[i];
             }
         }
-        return Math.min(nums[i],nums[j]);
+        return 0;
     }
 }
