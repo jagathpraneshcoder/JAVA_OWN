@@ -13,6 +13,7 @@
 | [0039-combination-sum](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0074-search-a-2d-matrix) |
@@ -44,6 +45,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -99,6 +101,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0295-find-median-from-data-stream) |
@@ -123,6 +126,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0242-valid-anagram) |
