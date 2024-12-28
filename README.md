@@ -16,6 +16,7 @@
 | [0068-text-justification](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -213,6 +215,7 @@
 | [0011-container-with-most-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0295-find-median-from-data-stream) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
