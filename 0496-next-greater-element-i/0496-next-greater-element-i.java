@@ -18,3 +18,27 @@ class Solution {
         return res;
     }
 }
+
+/*
+
+Input: nums1[], nums2[]
+Output: result[]
+
+Step 1: Initialize an empty stack and an empty HashMap.
+
+Step 2: Traverse nums2:
+    For each element num in nums2:
+        While stack is not empty AND stack.peek() < num:
+            Map stack.pop() -> num in the HashMap.
+        Push num onto the stack.
+
+Step 3: For all remaining elements in the stack:
+    Map stack.pop() -> -1 in the HashMap.
+
+Step 4: Initialize result[].
+    For each element num in nums1:
+        result.append(HashMap.get(num)).
+
+Step 5: Return result[].
+ */
+ 
