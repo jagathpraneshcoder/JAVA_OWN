@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0496-next-greater-element-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0496-next-greater-element-i) |
+| [0792-binary-search](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0792-binary-search) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0792-binary-search) |
 | [3435-block-placement-queries](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3435-block-placement-queries) |
 ## Bit Manipulation
 |  |
