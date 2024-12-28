@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0792-binary-search) |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0074-search-a-2d-matrix) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Greedy
