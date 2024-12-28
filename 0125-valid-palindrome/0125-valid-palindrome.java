@@ -1,5 +1,6 @@
 class Solution {
     public boolean isPalindrome(String s) {
+        //Two Pointer Approach
         s=s.toLowerCase();
         StringBuilder sb = new StringBuilder();
         for(char c : s.toCharArray()){
