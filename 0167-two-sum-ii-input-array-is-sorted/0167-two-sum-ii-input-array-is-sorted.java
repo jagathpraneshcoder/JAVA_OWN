@@ -10,9 +10,8 @@ class Solution {
                 j--;
                 
             }
-            else if(nums[i]+nums[j]<target){
+            else{
                 i++;
-                
             }
         }
         return new int[]{};
