@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0041-first-missing-positive) |
