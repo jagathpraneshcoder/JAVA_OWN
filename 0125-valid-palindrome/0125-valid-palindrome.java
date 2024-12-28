@@ -1,5 +1,5 @@
 class Solution {
-
+    //Recursion
     public boolean findPalindrome(String s,int i,int j){
         if(i>j) return true;
         else if(s.charAt(i)!=s.charAt(j)) return false;
