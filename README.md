@@ -44,6 +44,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0460-lfu-cache) |
@@ -98,6 +99,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0295-find-median-from-data-stream) |
 ## Recursion
@@ -123,6 +125,7 @@
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
