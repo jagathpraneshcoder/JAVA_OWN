@@ -1,5 +1,6 @@
 class Solution {
     public int findMin(int[] nums) {
+        //Two Pointer not Binary approach
         int i=0;
         int j=nums.length-1;
         int mid = (i+j)/2;
