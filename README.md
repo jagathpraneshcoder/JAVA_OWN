@@ -119,6 +119,7 @@
 | [0010-regular-expression-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
@@ -165,6 +166,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0460-lfu-cache) |
 ## Heap (Priority Queue)
 |  |
