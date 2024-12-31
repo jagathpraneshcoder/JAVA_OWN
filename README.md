@@ -51,6 +51,7 @@
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0025-reverse-nodes-in-k-group) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0460-lfu-cache) |
 ## Heap (Priority Queue)
@@ -244,6 +246,7 @@
 | [0011-container-with-most-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0202-happy-number) |
