@@ -10,13 +10,10 @@ class Solution {
     }
 
     public boolean isHappy(int n) {
-        int slow = n,fast = n;
-        do{
-            slow=findHappy(slow);
-            fast=findHappy(fast);
-            fast=findHappy(fast);
-        }while(slow!=fast);
-        if(slow==1) return true;
+        do{ 
+           n=findHappy(n);
+        }while(n!=1 && n!=4);
+        if(n==1) return true;
         else return false;
     }
 }
