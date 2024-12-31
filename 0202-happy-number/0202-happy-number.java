@@ -10,18 +10,13 @@ class Solution {
     }
 
     public boolean isHappy(int n) {
-        int sum=n;
-        ArrayList<Integer> history = new ArrayList<>();
-        while(sum>1){
-            sum=findHappy(sum);
-            if(sum!=1){
-                if(history.contains(sum))
-                    return false;
-                else
-                    history.add(sum);
-            }
-        }
-        if(sum==1) return true;
+        int slow = n,fast = n;
+        do{
+            slow=findHappy(slow);
+            fast=findHappy(fast);
+            fast=findHappy(fast);
+        }while(slow!=fast);
+        if(slow==1) return true;
         else return false;
     }
 }
