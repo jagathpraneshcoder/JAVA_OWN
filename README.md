@@ -25,6 +25,7 @@
 | [0189-rotate-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0287-find-the-duplicate-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0496-next-greater-element-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0540-single-element-in-a-sorted-array) |
@@ -94,6 +95,7 @@
 | [0162-find-peak-element](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -107,6 +109,7 @@
 | [0090-subsets-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0287-find-the-duplicate-number) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Sorting
 |  |
@@ -244,6 +247,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0295-find-median-from-data-stream) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Design
