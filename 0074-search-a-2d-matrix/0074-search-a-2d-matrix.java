@@ -1,22 +1,27 @@
 class Solution {
-    public boolean searchMatrix(int[][] matrix, int target) {
-        int m = matrix.length;
-        int n = matrix[0].length;
-        int i=0;
-        int j=(m*n)-1;
-        int mid = (i+j)/2;
+    
+    public boolean valueFind(int[] nums,int target){
+        int i=0,j=nums.length-1;
+        int mid=0;
+        int ub=Integer.MIN_VALUE;   
         while(i<=j){
-            if(matrix[mid/n][mid%n]==target){
+            mid=(i+j)/2;
+            if(nums[mid]==target)
                 return true;
-            }
-            else if(matrix[mid/n][mid%n]>target){
+            else if(nums[mid]>target){
                 j=mid-1;
-                mid = (i+j)/2;
             }
             else{
                 i=mid+1;
-                mid=(i+j)/2;
             }
+        }
+        return false;
+    }
+    
+    public boolean searchMatrix(int[][] matrix, int target) {
+        for(int i=0;i<matrix.length;i++){
+            if(valueFind(matrix[i],target))
+                return true;
         }
         return false;
     }
