@@ -187,6 +187,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0025-reverse-nodes-in-k-group) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0460-lfu-cache) |
 ## Heap (Priority Queue)
 |  |
