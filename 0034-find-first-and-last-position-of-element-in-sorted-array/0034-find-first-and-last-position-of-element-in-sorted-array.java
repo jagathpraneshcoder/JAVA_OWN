@@ -1,45 +1,51 @@
 class Solution {
     
-    public int lowerBound(int[] nums,int target){
-        int i=0,j=nums.length-1;
-        int mid=0;
-        int lb=nums.length;
-        while(i<=j){
-            mid=(i+j)/2;
-            if(nums[mid]>=target){
-                lb=mid;
-                j=mid-1;
+    public int binarySearchFirst(int[] nums,int target){
+        int left=0,right=nums.length-1;
+        int res=-1;
+        int mid = (left+right)/2;
+        while(left<=right){
+            mid = (left+right)/2;
+            if(nums[mid]==target){
+                res=mid;
+                right=mid-1;
+            }
+            else if(nums[mid]<target){
+                left=mid+1;
             }
             else{
-                i=mid+1;
+                right=mid-1;
             }
         }
-        return lb;
+        return res;
     }
 
-    public int upperBound(int[] nums,int target){
-        int i=0,j=nums.length-1;
-        int mid=0;
-        int ub=nums.length;
-        while(i<=j){
-            mid=(i+j)/2;
-            if(nums[mid]>target){
-                ub=mid;
-                j=mid-1;
+    public int binarySearchLast(int[] nums,int target){
+        int left=0,right=nums.length-1;
+        int res=-1;
+        int mid = (left+right)/2;
+        while(left<=right){
+            mid = (left+right)/2;
+            if(nums[mid]==target){
+                res=mid;
+                left=mid+1;
+            }
+            else if(nums[mid]<target){
+                left=mid+1;
             }
             else{
-                i=mid+1;
+                right=mid-1;
             }
         }
-        return ub;
+        return res;
     }
     
     public int[] searchRange(int[] nums, int target) {
-        int lb=lowerBound(nums,target);
-        System.out.println(lb);
-        if(lb==nums.length || nums[lb]!=target)
+        int first = binarySearchFirst(nums,target);
+        if(first==-1)
             return new int[]{-1,-1};
-        int ub=upperBound(nums,target);
-        return new int[]{lb,ub-1};
+        int last = binarySearchLast(nums,target);
+        //System.out.println(first+" "+last);
+        return new int[]{first,last};
     }
 }
