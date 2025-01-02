@@ -20,8 +20,10 @@ class Solution {
     
     public boolean searchMatrix(int[][] matrix, int target) {
         for(int i=0;i<matrix.length;i++){
-            if(valueFind(matrix[i],target))
-                return true;
+            if((matrix[i][0]<=target) && (matrix[i][matrix[i].length-1]>=target)){
+                if(valueFind(matrix[i],target))
+                    return true;
+            }
         }
         return false;
     }
