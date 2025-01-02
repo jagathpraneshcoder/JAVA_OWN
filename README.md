@@ -26,6 +26,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0287-find-the-duplicate-number) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -100,6 +101,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0540-single-element-in-a-sorted-array) |
@@ -139,6 +141,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0240-search-a-2d-matrix-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Greedy
