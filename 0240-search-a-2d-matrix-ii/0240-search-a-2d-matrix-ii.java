@@ -1,20 +1,27 @@
 class Solution {
-    public boolean searchMatrix(int[][] matrix, int target) {
-        int n=matrix.length,m=matrix[0].length;
-        int row = 0,col = m-1;
-        while( row < n && col >=0 ){
-            if(matrix[row][col]==target) {
-                System.out.println(matrix[row][col]);
+
+    public boolean valueFind(int[] nums,int target){
+        int i=0,j=nums.length-1;
+        int mid=0;
+        int ub=Integer.MIN_VALUE;   
+        while(i<=j){
+            mid=(i+j)/2;
+            if(nums[mid]==target)
                 return true;
+            else if(nums[mid]>target){
+                j=mid-1;
             }
-            else if(matrix[row][col]>target) {
-                System.out.println(matrix[row][col]);
-                col--;
+            else{
+                i=mid+1;
             }
-            else{ 
-                System.out.println(matrix[row][col]);
-                row++;
-            }
+        }
+        return false;
+    }
+
+    public boolean searchMatrix(int[][] matrix, int target) {
+        for(int i=0;i<matrix.length;i++){
+            if(valueFind(matrix[i],target))
+                return true;
         }
         return false;
     }
