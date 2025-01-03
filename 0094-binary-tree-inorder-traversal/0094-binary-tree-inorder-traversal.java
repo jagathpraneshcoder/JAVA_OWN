@@ -15,12 +15,11 @@
  */
 class Solution {
 
-    public List<Integer> IOT(TreeNode root,List<Integer> res){
-        if(root==null) return null;
+    public void IOT(TreeNode root,List<Integer> res){
+        if(root==null) return;
         IOT(root.left,res);
         res.add(root.val);
         IOT(root.right,res);
-        return res;
     }
 
     public List<Integer> inorderTraversal(TreeNode root) {
