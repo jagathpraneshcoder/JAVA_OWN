@@ -14,21 +14,17 @@
  * }
  */
 class Solution {
-    public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> list = new ArrayList<Integer>();
-        Stack<TreeNode> st = new Stack<TreeNode>();
-        TreeNode current = root;
-        while(true){
-            while(current!=null){
-                list.add(current.val);
-                st.push(current);
-                current=current.left;
-            }
-            if(st.empty()) break;
-            current = st.pop();
-            current=current.right;
 
-        }
-        return list;
+    public void IOT(TreeNode root,List<Integer> res){
+        if(root==null) return;
+        res.add(root.val);
+        IOT(root.left,res);
+        IOT(root.right,res);
+    }
+
+    public List<Integer> preorderTraversal(TreeNode root) {
+        List<Integer> result = new ArrayList<Integer>();
+        IOT(root,result);
+        return result;   
     }
 }
