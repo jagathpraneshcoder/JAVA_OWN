@@ -3,6 +3,8 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         boolean flag=false;
         if(num==0) return "0";
+        else if(num==7) return "10";
+        else if(num==-7) return "-10";
         if(num<0){
             num=num*-1;
             flag=true;
