@@ -14,17 +14,22 @@
  * }
  */
 class Solution {
-
-    public void IOT(TreeNode root,List<Integer> res){
-        if(root==null) return;
-        IOT(root.left,res);
-        res.add(root.val);
-        IOT(root.right,res);
-    }
-
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<Integer>();
-        IOT(root,result);
-        return result;
+        List<Integer> list = new ArrayList<Integer>();
+        Stack<TreeNode> st = new Stack<TreeNode>();
+        TreeNode current = root;
+        while(true){
+            
+            while(current!=null){
+                st.push(current);
+                current=current.left;
+            }
+            if(st.empty()) break;
+            current = st.pop();
+            list.add(current.val);
+            current=current.right;
+
+        }
+        return list;
     }
 }
