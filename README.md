@@ -42,6 +42,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2665-minimum-time-to-repair-cars) |
 | [2726-minimum-reverse-operations](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2726-minimum-reverse-operations) |
+| [2792-neighboring-bitwise-xor](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2792-neighboring-bitwise-xor) |
 | [3435-block-placement-queries](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3435-block-placement-queries) |
 | [3527-alternating-groups-iii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3527-alternating-groups-iii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
@@ -125,6 +126,7 @@
 | [0231-power-of-two](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0287-find-the-duplicate-number) |
+| [2792-neighboring-bitwise-xor](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2792-neighboring-bitwise-xor) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Sorting
 |  |
