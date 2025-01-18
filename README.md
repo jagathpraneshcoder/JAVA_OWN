@@ -36,6 +36,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
@@ -208,6 +209,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0295-find-median-from-data-stream) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Merge Sort
@@ -242,6 +244,7 @@
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0240-search-a-2d-matrix-ii) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Greedy
@@ -329,6 +332,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2726-minimum-reverse-operations](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2726-minimum-reverse-operations) |
 ## Binary Tree
 |  |
@@ -405,4 +409,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0215-kth-largest-element-in-an-array) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
