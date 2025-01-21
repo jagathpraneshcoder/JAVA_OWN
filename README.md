@@ -39,6 +39,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -177,6 +178,7 @@
 | [0242-valid-anagram](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
@@ -191,6 +193,7 @@
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3563-select-cells-in-grid-with-maximum-score) |
