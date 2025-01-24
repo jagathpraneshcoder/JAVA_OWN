@@ -75,6 +75,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0202-happy-number) |
@@ -192,6 +193,7 @@
 | [0042-trapping-rain-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
@@ -367,6 +369,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0062-unique-paths) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3637-count-number-of-balanced-permutations](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3637-count-number-of-balanced-permutations) |
 ## Ordered Set
