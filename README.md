@@ -338,6 +338,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -347,6 +348,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0547-number-of-provinces) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2726-minimum-reverse-operations](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2726-minimum-reverse-operations) |
 ## Binary Tree
@@ -429,6 +431,7 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0547-number-of-provinces) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
@@ -438,4 +441,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0347-top-k-frequent-elements) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
