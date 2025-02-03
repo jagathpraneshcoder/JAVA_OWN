@@ -1,24 +1,32 @@
 class Solution {
 
-    static void dfs(int V,int[][] isConnected,boolean[] visited){
+    static void bfs(int V,int[][] isConnected,boolean[] visited){
+        Queue<Integer> queue = new LinkedList<>();
+        queue.add(V);
         visited[V] = true;
-        for(int i=0;i<isConnected[V].length;i++){
-            if(isConnected[V][i]==1 && !visited[i]){
-                dfs(i,isConnected,visited);
+        while(!queue.isEmpty()){
+            int vertex = queue.remove();
+            for(int i=0;i<isConnected.length;i++){
+                if(isConnected[vertex][i] == 1 && !visited[i]){
+                    queue.add(i);
+                    visited[i] = true;
+                }
             }
         }
     }
 
     public int findCircleNum(int[][] isConnected) {
+        int count = 0;
         int n = isConnected.length;
         boolean[] visited = new boolean[n];
-        int count = 0;
-        for(int i=0;i<isConnected.length;i++){
-            if(!visited[i]){
+        
+        for(int i=0;i<n;i++){
+            if (!visited[i]) {
                 count++;
-                dfs(i,isConnected,visited);
+                bfs(i, isConnected, visited);
             }
         }
+
         return count;
     }
 }
