@@ -38,6 +38,7 @@
 | [0496-next-greater-element-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0792-binary-search) |
+| [1036-rotting-oranges](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1073-number-of-enclaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -260,6 +261,7 @@
 | [0074-search-a-2d-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0240-search-a-2d-matrix-ii) |
+| [1036-rotting-oranges](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1073-number-of-enclaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
@@ -356,6 +358,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1073-number-of-enclaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2726-minimum-reverse-operations](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2726-minimum-reverse-operations) |
