@@ -42,6 +42,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1073-number-of-enclaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -237,6 +238,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Stack
 |  |
@@ -434,6 +436,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0238-product-of-array-except-self) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Quickselect
 |  |
 | ------- |
