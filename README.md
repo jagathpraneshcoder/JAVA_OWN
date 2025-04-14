@@ -45,6 +45,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
