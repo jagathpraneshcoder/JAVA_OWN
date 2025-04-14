@@ -18,6 +18,7 @@
 | [0042-trapping-rain-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0078-subsets) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0240-search-a-2d-matrix-ii) |
@@ -423,6 +425,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0068-text-justification) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
