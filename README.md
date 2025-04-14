@@ -16,6 +16,7 @@
 | [0039-combination-sum](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0054-spiral-matrix) |
@@ -83,6 +84,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0189-rotate-array) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0130-surrounded-regions) |
