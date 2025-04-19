@@ -40,6 +40,7 @@
 | [0455-assign-cookies](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -79,6 +80,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0560-subarray-sum-equals-k) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -448,6 +450,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Quickselect
 |  |
