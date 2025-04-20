@@ -79,6 +79,7 @@
 | [0205-isomorphic-strings](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0460-lfu-cache) |
@@ -195,6 +196,7 @@
 | [0179-largest-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
