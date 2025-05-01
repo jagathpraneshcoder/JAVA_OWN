@@ -204,6 +204,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0451-sort-characters-by-frequency) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
@@ -269,6 +270,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0496-next-greater-element-i) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
