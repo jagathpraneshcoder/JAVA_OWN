@@ -87,6 +87,7 @@
 | [0496-next-greater-element-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0560-subarray-sum-equals-k) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Math
@@ -115,6 +116,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Number Theory
@@ -209,6 +211,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
