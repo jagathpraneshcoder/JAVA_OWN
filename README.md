@@ -104,6 +104,7 @@
 | [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1070-convert-to-base-2) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
@@ -207,6 +208,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2166-number-of-valid-move-combinations-on-chessboard](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2166-number-of-valid-move-combinations-on-chessboard) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
