@@ -104,6 +104,7 @@
 | [0504-base-7](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1070-convert-to-base-2) |
+| [1236-n-th-tribonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1635-number-of-good-pairs) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -230,6 +231,7 @@
 | [0053-maximum-subarray](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1236-n-th-tribonacci-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
@@ -470,6 +472,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/1236-n-th-tribonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
