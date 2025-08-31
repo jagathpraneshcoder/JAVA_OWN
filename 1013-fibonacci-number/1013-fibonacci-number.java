@@ -1,11 +1,21 @@
 class Solution {
-    public int rec(int n)
-    {
-        if(n==0) return 0;
-        if(n==1) return 1;
-        return rec(n-2) + rec(n-1);
-    }
     public int fib(int n) {
-        return rec(n);
+        int f0 = 0;
+        int f1 = 1;
+        if(n==0)
+            return f0;
+        if(n==1)
+            return f1;
+        int a = f0;
+        int b = f1;
+        int iterate = n;
+        int fn = -1;
+        while(iterate>=2){
+            fn = a + b;
+            a = b;
+            b = fn;
+            iterate--;
+        }
+        return fn;
     }
 }
