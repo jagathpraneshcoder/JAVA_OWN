@@ -93,6 +93,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/jagathpraneshcoder/JAVA_OWN/tree/master/0168-excel-sheet-column-title) |
